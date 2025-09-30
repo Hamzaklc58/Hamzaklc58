@@ -59,5 +59,6 @@
 <!-- Moving Truck GIF at the bottom -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Moving Truck" width="300" />
+  <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" alt="Moving Truck" width="300" />
 </p>
+
