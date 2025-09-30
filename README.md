@@ -58,9 +58,13 @@
 
 <!-- Moving Truck GIF at the bottom -->
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/delivery--v1.png" alt="Truck Icon" />
-  <strong>Web Developer at Modaltrans</strong>
+---
+
+<p align="center" style="margin-top: 50px;">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Moving Truck" style="vertical-align: middle; width: 80px; height: auto;"/>
+  &nbsp;&nbsp;
+  <strong style="font-size: 1.2em; vertical-align: middle;">Web Developer at Modaltrans</strong>
 </p>
+
 
 
