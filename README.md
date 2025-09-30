@@ -60,11 +60,14 @@
 
 ---
 
-<p align="center" style="margin-top: 50px;">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Moving Truck" style="vertical-align: middle; width: 80px; height: auto;"/>
-  &nbsp;&nbsp;
-  <strong style="font-size: 1.2em; vertical-align: middle;">Web Developer at Modaltrans</strong>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Moving Truck" width="100%" />
 </p>
+
+<p align="center"><strong>Web Developer at Modaltrans</strong></p>
+
 
 
 
