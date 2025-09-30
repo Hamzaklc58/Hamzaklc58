@@ -55,13 +55,6 @@
 </p>
 
 ---
-
-<!-- Moving Truck GIF at the bottom -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Moving Truck" style="max-width: 100%; height: auto;" />
-</p>
-
 <p align="center" style="font-weight: bold;">
   Web Developer at Modaltrans
 </p>
