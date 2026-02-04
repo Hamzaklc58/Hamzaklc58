@@ -57,4 +57,5 @@
 ---
 <p align="center" style="font-weight: bold;">
   Web Developer at Modaltrans
+  Computer Programming @ Acibadem University
 </p>
