@@ -40,9 +40,9 @@
   <a href="https://github.com/Hamzaklc58" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!--<a href="https://linkedin.com/in/hamza-linkedin" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/hamza-k-71a040374" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>-->
+  </a>
   <a href="mailto:hamzakilic324@gmail.com">
     <img src="https://img.shields.io/badge/E--Mail-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
